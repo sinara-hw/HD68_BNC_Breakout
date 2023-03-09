@@ -259,6 +259,42 @@ Variation38=Designator=NUT10|UniqueId=\UKYRRKCO|Kind=1|AlternatePart=
 Variation39=Designator=NUT11|UniqueId=\ONGZRALM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for HD68_BNC_MCX_Adapter\Panel\BNC\Lid_HD68_BNC_Breakout.brd
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for IDC_HD68_Adapter\Panel\Lid_HD68_BNC_Breakout.brd
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for HD68_BNC_MCX_Adapter\Panel\BNC\Lid_HD68_BNC_Breakout.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for IDC_HD68_Adapter\Panel\Lid_HD68_BNC_Breakout.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for HD68_BNC_MCX_Adapter\Panel\BNC\Lid_HD68_BNC_Breakout.step
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for IDC_HD68_Adapter\Panel\Lid_HD68_BNC_Breakout.step
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for IDC_HD68_Adapter\Panel\Panel_HD68_BNC_Breakout.brd
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for IDC_HD68_Adapter\Panel\Panel_HD68_BNC_Breakout.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for IDC_HD68_Adapter\Panel\Panel_HD68_BNC_Breakout.step
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -854,6 +890,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Orcad v7 Capture Design
+OutputName15=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD ASCII
+OutputName16=P-CAD ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD V16 Schematic Design
+OutputName17=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SiSoft
+OutputName18=SiSoft (AutoPCB)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
