@@ -43,7 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=MCX_3U
+CurrentVariant=STD_BNC
 
 [Preferences]
 PrefsVaultGUID=
@@ -218,7 +218,7 @@ UniqueID=DA7D3317-81AC-4EB2-BBF8-2B78BDDDA98D
 Description=STD_BNC
 AllowFabrication=0
 ParameterCount=0
-VariationCount=39
+VariationCount=43
 Variation1=Designator=J34|UniqueId=\TOZUZQHZ|Kind=1|AlternatePart= 
 Variation2=Designator=J65|UniqueId=\CBLXPEZP|Kind=1|AlternatePart= 
 Variation3=Designator=J61|UniqueId=\JIHQPKJC|Kind=1|AlternatePart= 
@@ -258,6 +258,10 @@ Variation36=Designator=SCREW1|UniqueId=\MNADOHKI|Kind=1|AlternatePart=
 Variation37=Designator=SCREW2|UniqueId=\GWFCNEAE|Kind=1|AlternatePart= 
 Variation38=Designator=NUT10|UniqueId=\UKYRRKCO|Kind=1|AlternatePart= 
 Variation39=Designator=NUT11|UniqueId=\ONGZRALM|Kind=1|AlternatePart= 
+Variation40=Designator=SCREW12|UniqueId=\EATWMRIV|Kind=1|AlternatePart= 
+Variation41=Designator=SCREW13|UniqueId=\DJZLZGIZ|Kind=1|AlternatePart= 
+Variation42=Designator=NUT12|UniqueId=\UQSJXGSJ|Kind=1|AlternatePart= 
+Variation43=Designator=NUT13|UniqueId=\KHMAWZWG|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -903,6 +907,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Orcad v7 Capture Design
+OutputName15=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD ASCII
+OutputName16=P-CAD ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD V16 Schematic Design
+OutputName17=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SiSoft
+OutputName18=SiSoft (AutoPCB)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
