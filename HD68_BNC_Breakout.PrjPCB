@@ -156,7 +156,7 @@ UniqueID=9B881D82-BCD7-4910-89F0-D449803A5B3E
 Description=MCX_3U
 AllowFabrication=0
 ParameterCount=0
-VariationCount=53
+VariationCount=54
 Variation1=Designator=J2|UniqueId=\NGJFVFVE|Kind=1|AlternatePart= 
 Variation2=Designator=J3|UniqueId=\ZYLDGJHY|Kind=1|AlternatePart= 
 Variation3=Designator=J4|UniqueId=\DLJNXJZT|Kind=1|AlternatePart= 
@@ -210,6 +210,7 @@ Variation50=Designator=SCREW8|UniqueId=\QJXHKQST|Kind=1|AlternatePart=
 Variation51=Designator=SCREW9|UniqueId=\WUUEMARY|Kind=1|AlternatePart= 
 Variation52=Designator=SCREW10|UniqueId=\WNKMBHND|Kind=1|AlternatePart= 
 Variation53=Designator=SCREW11|UniqueId=\SIXJMJPG|Kind=1|AlternatePart= 
+Variation54=Designator=ST2|UniqueId=\HIUPCIUL|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -284,14 +285,26 @@ DocumentPath=Project Outputs for IDC_HD68_Adapter\Panel\Lid_HD68_BNC_Breakout.st
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for IDC_HD68_Adapter\Panel\Panel_HD68_BNC_Breakout.brd
+DocumentPath=Project Outputs for HD68_BNC_MCX_Adapter\Panel\MCX_3U\Panel_HD68_BNC_Breakout.brd
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for IDC_HD68_Adapter\Panel\Panel_HD68_BNC_Breakout.DXF
+DocumentPath=Project Outputs for IDC_HD68_Adapter\Panel\Panel_HD68_BNC_Breakout.brd
 DItemRevisionGUID=
 
 [GeneratedDocument9]
+DocumentPath=Project Outputs for HD68_BNC_MCX_Adapter\Panel\MCX_3U\Panel_HD68_BNC_Breakout.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for IDC_HD68_Adapter\Panel\Panel_HD68_BNC_Breakout.DXF
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for HD68_BNC_MCX_Adapter\Panel\MCX_3U\Panel_HD68_BNC_Breakout.step
+DItemRevisionGUID=
+
+[GeneratedDocument12]
 DocumentPath=Project Outputs for IDC_HD68_Adapter\Panel\Panel_HD68_BNC_Breakout.step
 DItemRevisionGUID=
 
@@ -890,36 +903,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
